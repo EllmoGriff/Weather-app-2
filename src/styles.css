@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4rem;
+  font-family: monospace;
+}
+h2 {
+  text-align: center;
+  font-family: monospace;
+}
+
+form {
+  text-align: center;
+}
+
+form #searchButton {
+  margin-left: 1rem;
+}
+input {
+  border-radius: 20rem;
+  padding: 0.5rem;
+}
+
+li {
+  list-style: none;
+}
